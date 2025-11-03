@@ -2,13 +2,9 @@
 <h1 align="center">👋 Olá! Eu sou o <strong>Lucas Ferreira de Souza</strong></h1>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dqnijyig4/image/upload/v1759670218/portfolio/1759670169265_teste.png" width="150" style="border-radius: 50%;">
-</p>
-
-<p align="center">
   💻 <strong>Suporte | Infraestrutura | QA | Product Owner</strong><br>
   🚀 <strong>React | Node.js | TypeScript | MongoDB | Cloudinary | Brevo | Vercel | RPG Maker</strong><br>
-  📍 Itapetininga - SP | 22 anos
+  📍 Sorocaba - SP | 22 anos
 </p>
 
 ---
