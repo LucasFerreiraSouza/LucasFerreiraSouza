@@ -9,7 +9,7 @@
 
 ---
 
-## 🐢 Sobre mim [Portfólio](https://www.agxsoftware.com)
+## 🐢 Sobre mim [Ver Mais ...](https://portfolio-jabuti-web.vercel.app/?user=lucas_ferreirahttps://portfolio-jabuti-web.vercel.app/?user=lucas_ferreira)
 
 > “Como um jabuTI: lento, mas constante — e sempre em movimento.”
 
