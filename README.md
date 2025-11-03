@@ -8,23 +8,6 @@
 </p>
 
 
-<!-- 🐢 Jabuti animado -->
-
-<p align="center">
-  <svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="60" cy="60" r="50" fill="#6c9a6b" />
-    <rect x="40" y="45" width="40" height="30" rx="10" fill="#3b5f3b">
-      <animateTransform attributeName="transform" attributeType="XML" type="translate" from="-5 0" to="5 0" dur="1.5s" repeatCount="indefinite" direction="alternate"/>
-    </rect>
-    <circle cx="50" cy="80" r="8" fill="#2f4f2f">
-      <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0 0" to="5 0" dur="1.5s" repeatCount="indefinite" direction="alternate"/>
-    </circle>
-    <circle cx="70" cy="80" r="8" fill="#2f4f2f">
-      <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0 0" to="-5 0" dur="1.5s" repeatCount="indefinite" direction="alternate"/>
-    </circle>
-  </svg>
-</p>
-
 ---
 
 ## 🐢 [Sobre mim](https://portfolio-jabuti-web.vercel.app/?user=lucas_ferreira)
