@@ -11,13 +11,13 @@
 
 ## 🐢 Sobre mim
 
-> “Como um jabuti: lento, mas constante — e sempre em movimento.”
+> “Como um jabuTI: lento, mas constante — e sempre em movimento.”
 
 Desde criança, eu era o <strong>JabutiVoador22</strong> nos jogos, e esse apelido virou símbolo da minha filosofia:  
 persistência, curiosidade e constância.  
 Comecei no suporte técnico e infraestrutura, passei pelo controle de qualidade (QA), e hoje atuo também como **Product Owner** e desenvolvedor full-stack.
 
-💡 **Atualmente:** QA & PO na [AGX Software](https://www.agxsoftware.com.br/)  
+💡 **Atualmente:** QA & PO na [AGX Software](https://www.agxsoftware.com)  
 🎯 Buscando evoluir como **Dev e líder técnico**, unindo qualidade, visão de produto e código limpo.  
 🧩 Criador do projeto educacional [CyberChase QA](https://cyberchase-qa-front.vercel.app/), feito com **RPG Maker + Node + React + MongoDB**, voltado para aprendizado gamificado e acessível.
 
