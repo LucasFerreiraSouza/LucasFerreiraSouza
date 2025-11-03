@@ -9,9 +9,9 @@
 
 ---
 
-## 🐢 Sobre mim [ver Mais ...](https://portfolio-jabuti-web.vercel.app/?user=lucas_ferreira)
+## 🐢 [Sobre Mim](https://portfolio-jabuti-web.vercel.app/?user=lucas_ferreira)
 
-> “Como um jabuTI: lento, mas constante — e sempre em movimento.”
+> “Como um jabuTI: paciente e sempre em movimento.”
 
 Desde criança, eu era o <strong>JabutiVoador22</strong> nos jogos, e esse apelido virou símbolo da minha filosofia:  
 persistência, curiosidade e constância.  
