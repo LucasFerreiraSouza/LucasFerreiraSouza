@@ -13,7 +13,10 @@
 
 ---
 
-(https://res.cloudinary.com/drcuskkcw/image/upload/v1762214238/Pokemon_Eating_GIF_kleysw.gif)
+<p align="center">
+  <img src="https://res.cloudinary.com/drcuskkcw/image/upload/v1762214238/Pokemon_Eating_GIF_kleysw.gif" width="120">
+</p>
+
 
 ## 🐢 [Sobre mim](https://portfolio-jabuti-web.vercel.app/?user=lucas_ferreira)
 
