@@ -90,15 +90,29 @@ Comecei no suporte técnico e infraestrutura, passei pelo controle de qualidade 
 
 ## 🌐 Contatos
 
-<div style="background-color:#1f1f1f; padding:10px; border-radius:10px;">
-<p align="center">
-  <a href="https://wa.me/5515997651019"><img src="https://res.cloudinary.com/dqnijyig4/image/upload/v1760280001/portfolio/68ebbdb1ad6c23aad88a3e85_updated.png" width="40"></a>
-  <a href="mailto:lucasferreirasouza22@gmail.com"><img src="https://res.cloudinary.com/dqnijyig4/image/upload/v1760285654/portfolio/1760285654104_E-mail.png" width="40"></a>
-  <a href="https://www.linkedin.com/in/lucas-ferreira-de-souza-758195215"><img src="https://res.cloudinary.com/dqnijyig4/image/upload/v1760279908/portfolio/1760279908409_Linkedin.png" width="40"></a>
-  <a href="https://github.com/LucasFerreiraSouza"><img src="https://res.cloudinary.com/dqnijyig4/image/upload/v1760279953/portfolio/1760279953082_GitHub.png" width="40"></a>
-  <a href="https://www.instagram.com/lucaox"><img src="https://res.cloudinary.com/dqnijyig4/image/upload/v1760279027/portfolio/1760279026974_Instagram.png" width="40"></a>
-</p>
+<div align="center" style="
+  background-color:#1f1f1f;
+  padding:15px 25px;
+  border-radius:12px;
+  display:inline-block;
+">
+  <a href="https://wa.me/5515997651019" target="_blank" style="margin: 0 10px;">
+    <img src="https://res.cloudinary.com/dqnijyig4/image/upload/v1760280001/portfolio/68ebbdb1ad6c23aad88a3e85_updated.png" width="40" alt="WhatsApp">
+  </a>
+  <a href="mailto:lucasferreirasouza22@gmail.com" target="_blank" style="margin: 0 10px;">
+    <img src="https://res.cloudinary.com/dqnijyig4/image/upload/v1760285654/portfolio/1760285654104_E-mail.png" width="40" alt="E-mail">
+  </a>
+  <a href="https://www.linkedin.com/in/lucas-ferreira-de-souza-758195215" target="_blank" style="margin: 0 10px;">
+    <img src="https://res.cloudinary.com/dqnijyig4/image/upload/v1760279908/portfolio/1760279908409_Linkedin.png" width="40" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/LucasFerreiraSouza" target="_blank" style="margin: 0 10px;">
+    <img src="https://res.cloudinary.com/dqnijyig4/image/upload/v1760279953/portfolio/1760279953082_GitHub.png" width="40" alt="GitHub">
+  </a>
+  <a href="https://www.instagram.com/lucaox" target="_blank" style="margin: 0 10px;">
+    <img src="https://res.cloudinary.com/dqnijyig4/image/upload/v1760279027/portfolio/1760279026974_Instagram.png" width="40" alt="Instagram">
+  </a>
 </div>
+
 
 ---
 
