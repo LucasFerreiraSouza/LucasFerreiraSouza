@@ -13,6 +13,8 @@
 
 ---
 
+(https://res.cloudinary.com/drcuskkcw/image/upload/v1762214238/Pokemon_Eating_GIF_kleysw.gif)
+
 ## 🐢 [Sobre mim](https://portfolio-jabuti-web.vercel.app/?user=lucas_ferreira)
 
 > “Como um jabuTI: paciente e sempre em movimento.”
