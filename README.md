@@ -9,7 +9,7 @@
 
 ---
 
-## 🐢 Sobre mim
+## 🐢 Sobre mim [Portfólio](https://www.agxsoftware.com)
 
 > “Como um jabuTI: lento, mas constante — e sempre em movimento.”
 
@@ -29,7 +29,7 @@ Comecei no suporte técnico e infraestrutura, passei pelo controle de qualidade 
 |----------|-----------------|------------|
 | ![AGX](https://res.cloudinary.com/dqnijyig4/image/upload/v1760278769/portfolio/1760278769589_AGX.png) | **AGX Software** | Suporte, QA e Product Owner. Atuação em todo o ciclo de produto — testes, documentação, backlog e priorização ágil. |
 | ![Abrão Reze](https://res.cloudinary.com/dqnijyig4/image/upload/v1760279389/portfolio/1760279389015_Abr%C3%A3o_Reze.png) | **Abrão Reze** | Suporte N1 – Atendimento técnico e infraestrutura. |
-| ![Atacadão](https://res.cloudinary.com/dqnijyig4/image/upload/v1760279428/portfolio/1760279428095_Atacad%C3%A3o_SA.png) | **Atacadão S.A.** | Frente de caixa — primeiro contato com o mercado e rotina sob pressão. |
+| ![Atacadão](https://res.cloudinary.com/dqnijyig4/image/upload/v1760279428/portfolio/1760279428095_Atacad%C3%A3o_SA.png) | **Atacadão S.A.** | Frente de caixa — primeiro contato com o mercado e contato ao público. |
 
 ---
 
