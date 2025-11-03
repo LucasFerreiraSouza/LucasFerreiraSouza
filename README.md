@@ -1,6 +1,9 @@
 <!-- Banner / Apresentação -->
 <h1 align="center">👋 Olá! Eu sou o <strong>Lucas Ferreira</strong></h1>
 
+
+---
+
 <p align="center">
   💻 <strong>Suporte | Infraestrutura | QA | Product Owner</strong><br>
   🚀 <strong>React | Node.js | TypeScript | MongoDB | Cloudinary | Brevo | Vercel | RPG Maker</strong><br>
