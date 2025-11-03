@@ -7,6 +7,53 @@
   📍 Sorocaba - SP | 22 anos
 </p>
 
+
+<p align="center">
+  <svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+    <!-- Casco -->
+    <circle cx="60" cy="60" r="50" fill="#6c9a6b" />
+    
+    <!-- Corpo com leve movimento -->
+    <rect x="40" y="45" width="40" height="30" rx="10" fill="#3b5f3b">
+      <animateTransform 
+        attributeName="transform" 
+        attributeType="XML" 
+        type="translate" 
+        from="-5 0" 
+        to="5 0" 
+        dur="1.5s" 
+        repeatCount="indefinite" 
+        direction="alternate"/>
+    </rect>
+    
+    <!-- Pata esquerda -->
+    <circle cx="50" cy="80" r="8" fill="#2f4f2f">
+      <animateTransform 
+        attributeName="transform" 
+        attributeType="XML" 
+        type="translate" 
+        from="0 0" 
+        to="5 0" 
+        dur="1.5s" 
+        repeatCount="indefinite" 
+        direction="alternate"/>
+    </circle>
+    
+    <!-- Pata direita -->
+    <circle cx="70" cy="80" r="8" fill="#2f4f2f">
+      <animateTransform 
+        attributeName="transform" 
+        attributeType="XML" 
+        type="translate" 
+        from="0 0" 
+        to="-5 0" 
+        dur="1.5s" 
+        repeatCount="indefinite" 
+        direction="alternate"/>
+    </circle>
+  </svg>
+</p>
+
 ---
 
 ## 🐢 [Sobre mim](https://portfolio-jabuti-web.vercel.app/?user=lucas_ferreira)
@@ -90,31 +137,13 @@ Comecei no suporte técnico e infraestrutura, passei pelo controle de qualidade 
 
 ## 🌐 Contatos
 
-<div align="center" style="
-  background: rgba(255, 255, 255, 0.05);
-  border: 1px solid rgba(255, 255, 255, 0.08);
-  box-shadow: 0 0 10px rgba(0,0,0,0.3);
-  padding: 20px 25px;
-  border-radius: 14px;
-  display: inline-block;
-  backdrop-filter: blur(6px);
-">
-  <a href="https://wa.me/5515997651019" target="_blank" style="margin: 0 12px;">
-    <img src="https://res.cloudinary.com/dqnijyig4/image/upload/v1760280001/portfolio/68ebbdb1ad6c23aad88a3e85_updated.png" width="40" alt="WhatsApp">
-  </a>
-  <a href="mailto:lucasferreirasouza22@gmail.com" target="_blank" style="margin: 0 12px;">
-    <img src="https://res.cloudinary.com/dqnijyig4/image/upload/v1760285654/portfolio/1760285654104_E-mail.png" width="40" alt="E-mail">
-  </a>
-  <a href="https://www.linkedin.com/in/lucas-ferreira-de-souza-758195215" target="_blank" style="margin: 0 12px;">
-    <img src="https://res.cloudinary.com/dqnijyig4/image/upload/v1760279908/portfolio/1760279908409_Linkedin.png" width="40" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/LucasFerreiraSouza" target="_blank" style="margin: 0 12px;">
-    <img src="https://res.cloudinary.com/dqnijyig4/image/upload/v1760279953/portfolio/1760279953082_GitHub.png" width="40" alt="GitHub">
-  </a>
-  <a href="https://www.instagram.com/lucaox" target="_blank" style="margin: 0 12px;">
-    <img src="https://res.cloudinary.com/dqnijyig4/image/upload/v1760279027/portfolio/1760279026974_Instagram.png" width="40" alt="Instagram">
-  </a>
-
+<p align="center">
+  <a href="https://wa.me/5515997651019"><img src="https://res.cloudinary.com/dqnijyig4/image/upload/v1760280001/portfolio/68ebbdb1ad6c23aad88a3e85_updated.png" width="40"></a>
+  <a href="mailto:lucasferreirasouza22@gmail.com"><img src="https://res.cloudinary.com/dqnijyig4/image/upload/v1760285654/portfolio/1760285654104_E-mail.png" width="40"></a>
+  <a href="https://www.linkedin.com/in/lucas-ferreira-de-souza-758195215"><img src="https://res.cloudinary.com/dqnijyig4/image/upload/v1760279908/portfolio/1760279908409_Linkedin.png" width="40"></a>
+  <a href="https://github.com/LucasFerreiraSouza"><img src="https://res.cloudinary.com/dqnijyig4/image/upload/v1760279953/portfolio/1760279953082_GitHub.png" width="40"></a>
+  <a href="https://www.instagram.com/lucaox"><img src="https://res.cloudinary.com/dqnijyig4/image/upload/v1760279027/portfolio/1760279026974_Instagram.png" width="40"></a>
+</p>
 
 ---
 
