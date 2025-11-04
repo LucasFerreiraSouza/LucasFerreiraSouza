@@ -34,20 +34,20 @@ Comecei no suporte técnico e infraestrutura, passei pelo controle de qualidade 
 
 ## 💼 Experiências
 
-| Empresa | Cargo / Atuação | Descrição |
-|----------|-----------------|------------|
-| ![AGX](https://res.cloudinary.com/dqnijyig4/image/upload/v1760278769/portfolio/1760278769589_AGX.png) | **AGX Software** | Suporte, QA e Product Owner. Atuação em todo o ciclo de produto — testes, documentação, backlog e priorização ágil. |
-| ![Abrão Reze](https://res.cloudinary.com/dqnijyig4/image/upload/v1760279389/portfolio/1760279389015_Abr%C3%A3o_Reze.png) | **Abrão Reze** | Suporte N1 – Atendimento técnico e infraestrutura. |
-| ![Atacadão](https://res.cloudinary.com/dqnijyig4/image/upload/v1760279428/portfolio/1760279428095_Atacad%C3%A3o_SA.png) | **Atacadão S.A.** | Frente de caixa — primeiro contato com o mercado e contato ao público. |
+| Empresa | Cargo / Atuação |
+|----------|-----------------------------|
+| **AGX Software** | Suporte, QA e Product Owner. Atuação em todo o ciclo de produto — testes, documentação, backlog e priorização ágil. |
+| **Abrão Reze** | Suporte N1 – Atendimento técnico e infraestrutura. |
+| **Atacadão S.A.** | Frente de caixa — primeiro contato com o mercado e contato ao público. |
 
 ---
 
 ## 🎓 Formação
 
-| Instituição | Curso | Descrição |
-|--------------|--------|-----------|
-| ![FATEC](https://res.cloudinary.com/dqnijyig4/image/upload/v1760278803/portfolio/1760278803650_FATEC.png) | **FATEC Sorocaba** | Análise e Desenvolvimento de Sistemas. |
-| ![IFSP](https://res.cloudinary.com/dqnijyig4/image/upload/v1760279508/portfolio/1760279508845_IFSP.png) | **IFSP Itapetininga** | Técnico em Edificações. |
+| Instituição | Curso |
+|--------------|-------------------|
+| **FATEC Sorocaba** | Análise e Desenvolvimento de Sistemas. |
+| **IFSP Itapetininga** | Técnico em Edificações. |
 
 ---
 
