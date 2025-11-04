@@ -43,7 +43,7 @@ Comecei no suporte técnico e infraestrutura, passei pelo controle de qualidade 
 
 ---
 
-## 🎓 Formação
+## 🎓 Formações
 
 | Instituição | Curso |
 |--------------|-------------------|
