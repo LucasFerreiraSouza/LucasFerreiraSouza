@@ -18,14 +18,8 @@
 </p>
 
 
-## 🐢 [Sobre mim](https://portfolio-jabuti-web.vercel.app/?user=lucas_ferreira)
+## [Sobre mim](https://portfolio-jabuti-web.vercel.app/?user=lucas_ferreira)
 
-
-> “Como um jabuTI: paciente e sempre em movimento.”
-
-Desde criança, eu era o <strong>JabutiVoador22</strong> nos jogos, e esse apelido virou símbolo da minha filosofia:  
-persistência, curiosidade e constância.  
-Comecei no suporte técnico e infraestrutura, passei pelo controle de qualidade (QA), e hoje atuo também como **Product Owner** e desenvolvedor full-stack.
 
 💡 **Atualmente:** QA & PO na [AGX Software](https://www.agxsoftware.com)  
 🎯 Buscando evoluir como **Dev e líder técnico**, unindo qualidade, visão de produto e código limpo.  
