@@ -99,7 +99,7 @@ Comecei no suporte técnico e infraestrutura, passei pelo controle de qualidade 
 
 ## 🌐 Contatos
 
-<p align="center">
+
   <a href="https://wa.me/5515997651019">
     <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="40" height="40" alt="WhatsApp"/>
   </a>
@@ -115,7 +115,7 @@ Comecei no suporte técnico e infraestrutura, passei pelo controle de qualidade 
   <a href="https://www.instagram.com/lucaox">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" height="40" alt="Instagram"/>
   </a>
-</p>
+
 
 
 ---
