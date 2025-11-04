@@ -101,21 +101,22 @@ Comecei no suporte técnico e infraestrutura, passei pelo controle de qualidade 
 
 <p align="center">
   <a href="https://wa.me/5515997651019">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="40" height="40" alt="WhatsApp" style="filter: drop-shadow(0 0 3px #25D366);">
+    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="40" height="40" alt="WhatsApp"/>
   </a>
   <a href="mailto:lucasferreirasouza22@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40" alt="Gmail" style="filter: drop-shadow(0 0 3px #EA4335);">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/lucas-ferreira-de-souza-758195215">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" height="40" alt="LinkedIn" style="filter: drop-shadow(0 0 3px #0A66C2);">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" height="40" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/LucasFerreiraSouza">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="40" height="40" alt="GitHub" style="filter: drop-shadow(0 0 3px #333);">
+    <img src="https://img.icons8.com/fluency/48/github.png" width="40" height="40" alt="GitHub"/>
   </a>
   <a href="https://www.instagram.com/lucaox">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40" alt="Instagram" style="filter: drop-shadow(0 0 3px #E4405F);">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" height="40" alt="Instagram"/>
   </a>
 </p>
+
 
 ---
 
