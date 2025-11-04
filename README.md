@@ -18,7 +18,7 @@
 </p>
 
 
-## [Sobre mim](https://portfolio-jabuti-web.vercel.app/?user=lucas_ferreira)
+## 🐢 [Sobre mim](https://portfolio-jabuti-web.vercel.app/?user=lucas_ferreira)
 
 
 💡 **Atualmente:** QA & PO na [AGX Software](https://www.agxsoftware.com)  
