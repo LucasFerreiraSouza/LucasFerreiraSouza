@@ -39,7 +39,7 @@ Comecei no suporte técnico e infraestrutura, passei pelo controle de qualidade 
 |----------|-----------------------------|
 | **AGX Software** | Suporte, QA e Product Owner. Atuação em todo o ciclo de produto — testes, documentação, backlog e priorização ágil. |
 | **Abrão Reze** | Suporte N1 – Atendimento técnico e infraestrutura. |
-| **Atacadão S.A.** | Frente de caixa — primeiro contato com o mercado e contato ao público. |
+| **Atacadão S.A.** | Frente de caixa — primeiro contato com o mercado e atendimento ao público. |
 
 ---
 
