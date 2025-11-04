@@ -100,21 +100,25 @@ Comecei no suporte técnico e infraestrutura, passei pelo controle de qualidade 
 ## 🌐 Contatos
 
 
+<p align="center">
   <a href="https://wa.me/5515997651019">
     <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="40" height="40" alt="WhatsApp"/>
   </a>
   <a href="mailto:lucasferreirasouza22@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40" alt="Gmail"/>
+    <img src="https://img.icons8.com/color/48/gmail--v1.png" width="40" height="40" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/lucas-ferreira-de-souza-758195215">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" height="40" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/48/linkedin--v1.png" width="40" height="40" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/LucasFerreiraSouza">
-    <img src="https://img.icons8.com/fluency/48/github.png" width="40" height="40" alt="GitHub"/>
+    <img src="https://img.icons8.com/color/48/github--v1.png" width="40" height="40" alt="GitHub"/>
   </a>
   <a href="https://www.instagram.com/lucaox">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" height="40" alt="Instagram"/>
+    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="40" height="40" alt="Instagram"/>
   </a>
+</p>
+
+
 
 
 
