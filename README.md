@@ -18,7 +18,9 @@
 </p>
 
 
-## 🐢 [Sobre mim](https://portfolio-jabuti-web.vercel.app/?user=lucas_ferreira)
+## <a href="https://portfolio-jabuti-web.vercel.app/?user=lucas_ferreira" style="text-decoration: underline;">
+      🐢Sobre mim
+  </a>
 
 > “Como um jabuTI: paciente e sempre em movimento.”
 
