@@ -100,11 +100,21 @@ Comecei no suporte técnico e infraestrutura, passei pelo controle de qualidade 
 ## 🌐 Contatos
 
 <p align="center">
-  <a href="https://wa.me/5515997651019"><img src="https://res.cloudinary.com/dqnijyig4/image/upload/v1760280001/portfolio/68ebbdb1ad6c23aad88a3e85_updated.png" width="40"></a>
-  <a href="mailto:lucasferreirasouza22@gmail.com"><img src="https://res.cloudinary.com/dqnijyig4/image/upload/v1760285654/portfolio/1760285654104_E-mail.png" width="40"></a>
-  <a href="https://www.linkedin.com/in/lucas-ferreira-de-souza-758195215"><img src="https://res.cloudinary.com/dqnijyig4/image/upload/v1760279908/portfolio/1760279908409_Linkedin.png" width="40"></a>
-  <a href="https://github.com/LucasFerreiraSouza"><img src="https://res.cloudinary.com/dqnijyig4/image/upload/v1760279953/portfolio/1760279953082_GitHub.png" width="40"></a>
-  <a href="https://www.instagram.com/lucaox"><img src="https://res.cloudinary.com/dqnijyig4/image/upload/v1760279027/portfolio/1760279026974_Instagram.png" width="40"></a>
+  <a href="https://wa.me/5515997651019">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="40" height="40" alt="WhatsApp" style="filter: drop-shadow(0 0 3px #25D366);">
+  </a>
+  <a href="mailto:lucasferreirasouza22@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40" alt="Gmail" style="filter: drop-shadow(0 0 3px #EA4335);">
+  </a>
+  <a href="https://www.linkedin.com/in/lucas-ferreira-de-souza-758195215">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" height="40" alt="LinkedIn" style="filter: drop-shadow(0 0 3px #0A66C2);">
+  </a>
+  <a href="https://github.com/LucasFerreiraSouza">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="40" height="40" alt="GitHub" style="filter: drop-shadow(0 0 3px #333);">
+  </a>
+  <a href="https://www.instagram.com/lucaox">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40" alt="Instagram" style="filter: drop-shadow(0 0 3px #E4405F);">
+  </a>
 </p>
 
 ---
