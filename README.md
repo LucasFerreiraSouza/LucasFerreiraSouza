@@ -18,7 +18,7 @@
 </p>
 
 
-## 🐢 [Sobre mim](https://portfolio-jabuti-web.vercel.app/?user=lucas_ferreira)
+## 🐢 [Portfólio](https://portfolio-jabuti-web.vercel.app/?user=lucas_ferreira)
 
 
 💡 **Atualmente:** QA & PO na [AGX Software](https://www.agxsoftware.com)  
@@ -52,7 +52,7 @@
 |----------|------------|
 | 🎮 [**CyberChase QA**](https://cyberchase-qa-front.vercel.app/) | Jogo educacional gamificado para TDAH, com backend em Node.js e integração via API. |
 | 🧱 **Visão computacional** | Projeto acadêmico para detecção de patologias em concreto usando Orange Canvas. |
-| 🧩 [**Cubo Mágico 2D**](https://www.linkedin.com/posts/lucas-ferreira-de-souza-758195215_java-activity-7157781844376141825-gRwD) | Aplicativo Android interativo desenvolvido em Java. |
+| 🧩 [**Cubo Mágico 2D**](https://cubo-magico-2d-web.vercel.app/) | Aplicativo Android interativo desenvolvido em Java. |
 
 ---
 
