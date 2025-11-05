@@ -23,7 +23,7 @@
 
 💡 **Atualmente:** QA & PO na [AGX Software](https://www.agxsoftware.com)  
 🎯 Buscando evoluir como **Dev e líder técnico**, unindo qualidade, visão de produto e código limpo.  
-🧩 Criador do projeto educacional [CyberChase QA](https://cyberchase-qa-front.vercel.app/), feito com **RPG Maker + Node + React + MongoDB**, voltado para aprendizado gamificado e acessível.
+🧩 Criador do projeto educacional [Tupã: O Legado da Luz](https://cyberchase-qa-front.vercel.app/), feito com **RPG Maker + Node + React + MongoDB**, voltado para aprendizado gamificado e acessível.
 
 ---
 
@@ -51,7 +51,7 @@
 | Projeto | Descrição |
 |----------|------------|
 | 🐢 [**Portfólio**](https://portfolio-jabuti-web.vercel.app/?user=lucas_ferreira) | Aplicação web em React para gerenciamento de portfólios com CRUD completo e sistema de Drag & Drop.|
-| 🎮 [**CyberChase**](https://cyberchase-qa-front.vercel.app/) | Jogo educacional gamificado para, com backend em Node.js e integração via API. |
+| 🎮 [**Tupã: O Legado da Luz**](https://cyberchase-qa-front.vercel.app/) | Jogo educacional gamificado para, com backend em Node.js e integração via API. |
 | 🧱 **Visão computacional** | Projeto acadêmico para detecção de patologias em concreto usando Orange Canvas. |
 | 🧩 [**Cubo Mágico 2D**](https://cubo-magico-2d-web.vercel.app/) | Aplicativo Android interativo desenvolvido em Java. |
 
