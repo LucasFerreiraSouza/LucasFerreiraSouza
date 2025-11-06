@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <img src="https://res.cloudinary.com/drcuskkcw/image/upload/v1762214238/Pokemon_Eating_GIF_kleysw.gif" width="120">
+  <img src="https://res.cloudinary.com/drcuskkcw/image/upload/v1762472047/Working_Teenage_Mutant_Ninja_Turtles_GIF_bz7gyl.gif" width="240">
 </p>
 
 
