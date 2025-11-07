@@ -23,7 +23,8 @@
 
 💡 **Atualmente:** QA & PO na [AGX Software](https://www.agxsoftware.com)  
 🎯 Buscando evoluir como **Dev e líder técnico**, unindo qualidade, visão de produto e código limpo.  
-🧩 Criador do projeto educacional [Tupã: O Legado da Luz](https://cyberchase-qa-front.vercel.app/), feito com **RPG Maker + Node + React + MongoDB**, voltado para aprendizado gamificado e acessível.
+🧩 Transformo ideias em experiências interativas e acessíveis, unindo tecnologia, design e propósito.
+Criei o Tupã: O Legado da Luz, o Cubo Mágico 2D e meu portfólio interativo, explorando o poder da inovação com impacto.
 
 ---
 
