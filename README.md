@@ -23,7 +23,7 @@
 
 💡 **Atualmente:** QA & PO na [AGX Software](https://www.agxsoftware.com)  
 🎯 Buscando evoluir como **Dev e líder técnico**, unindo qualidade, visão de produto e código limpo.  
-🧩 Transformo ideias em experiências interativas e acessíveis, unindo tecnologia, design e propósito.
+✨ Transformo ideias em experiências interativas e acessíveis, unindo tecnologia, design e propósito.
 Criei o Tupã: O Legado da Luz, o Cubo Mágico 2D e meu portfólio interativo, explorando o poder da inovação com impacto.
 
 ---
