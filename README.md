@@ -89,7 +89,6 @@ Criei o Tupã: O Legado da Luz, o Cubo Mágico 2D e meu portfólio interativo, e
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasFerreiraSouza&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFerreiraSouza&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
 </div>
 
 ---
