@@ -124,10 +124,3 @@ Criei o Tupã: O Legado da Luz, o Cubo Mágico 2D e meu portfólio interativo, e
     </td>
   </tr>
 </table>
-
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LucasFerreiraSouza&color=blue" alt="Profile views"/>
-</p>
