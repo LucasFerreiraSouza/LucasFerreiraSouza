@@ -70,22 +70,6 @@ Criei o Tupã: O Legado da Luz, o Cubo Mágico 2D e meu portfólio interativo, e
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
-![Postman](https://img.shields.io/badge/-Postman-333?style=flat&logo=postman)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
-![Jira](https://img.shields.io/badge/-Jira-333?style=flat&logo=jira)
-![Vercel](https://img.shields.io/badge/-Vercel-333?style=flat&logo=vercel)
-![Cloudinary](https://img.shields.io/badge/-Cloudinary-333?style=flat&logo=cloudinary)
-
-
----
-
 ## 🌐 Contatos
 
 <table align="center">
