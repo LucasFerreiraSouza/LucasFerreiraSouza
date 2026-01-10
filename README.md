@@ -70,14 +70,28 @@ Atualmente trabalho na **AGX Software**, em um ambiente de produto, com forte at
 
 ## 🌐 Contato
 
-<p align="center">
-  <a href="mailto:lucasferreirasouza22@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail--v1.png" width="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/lucas-ferreira-de-souza-758195215">
-    <img src="https://img.icons8.com/color/48/linkedin--v1.png" width="40"/>
-  </a>
-  <a href="https://github.com/LucasFerreiraSouza">
-    <img src="https://img.icons8.com/color/48/github--v1.png" width="40"/>
-  </a>
-</p>
+## 🌐 Contato
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="mailto:lucasferreirasouza22@gmail.com">
+        <img src="https://img.icons8.com/color/48/gmail--v1.png" width="40" alt="Email"/><br>
+        <sub>Email</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/lucas-ferreira-de-souza-758195215">
+        <img src="https://img.icons8.com/color/48/linkedin--v1.png" width="40" alt="LinkedIn"/><br>
+        <sub>LinkedIn</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/LucasFerreiraSouza">
+        <img src="https://img.icons8.com/color/48/github--v1.png" width="40" alt="GitHub"/><br>
+        <sub>GitHub</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
