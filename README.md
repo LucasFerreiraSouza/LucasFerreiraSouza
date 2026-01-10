@@ -1,103 +1,83 @@
 <!-- Banner / Apresentação -->
 <h1 align="center">👋 Olá! Eu sou o <strong>Lucas Ferreira</strong></h1>
 
-
----
-
 <p align="center">
-  💻 <strong>Suporte | Infraestrutura | QA | Product Owner</strong><br>
-  🚀 <strong>React | Node.js | TypeScript | MongoDB | Cloudinary | Brevo | Vercel | RPG Maker</strong><br>
-  📍 Sorocaba - SP | 22 anos
+  💻 <strong>Desenvolvedor Full-Stack</strong><br>
+  🚀 <strong>React | Node.js | TypeScript | MongoDB | Vercel</strong><br>
+  📍 Sorocaba - SP, Brasil
 </p>
 
-
----
-
 <p align="center">
-  <img src="https://res.cloudinary.com/drcuskkcw/image/upload/v1762472047/Working_Teenage_Mutant_Ninja_Turtles_GIF_bz7gyl.gif" width="240">
+  <img src="https://res.cloudinary.com/drcuskkcw/image/upload/v1762472047/Working_Teenage_Mutant_Ninja_Turtles_GIF_bz7gyl.gif" width="220">
 </p>
 
+---
 
-## Sobre mim 
+## 👨‍💻 Sobre mim
 
+Sou **Desenvolvedor Full-Stack**, formado em **Análise e Desenvolvimento de Sistemas (ADS)** pela FATEC Sorocaba, com mais de **2 anos de experiência em TI**.
 
-💡 **Atualmente:** QA & PO na [AGX Software](https://www.agxsoftware.com)  
-🎯 Buscando evoluir como **Dev e líder técnico**, unindo qualidade, visão de produto e código limpo.  
-✨ Transformo ideias em experiências interativas e acessíveis, unindo tecnologia, design e propósito.
-Criei o Tupã: O Legado da Luz, o Cubo Mágico 2D e meu portfólio interativo, explorando o poder da inovação com impacto.
+Atuo no desenvolvimento de aplicações web utilizando **React + TypeScript** no front-end e **Node.js** no back-end, com foco em **qualidade, experiência do usuário e boas práticas**.
+
+Atualmente trabalho na **AGX Software**, em um ambiente de produto, com forte atuação em **QA, análise de requisitos e apoio a Product Owner**, o que contribui para uma visão sólida de produto aplicada ao desenvolvimento de software.
 
 ---
 
-## 💼 Experiências
+## 🧠 Tecnologias & Ferramentas
 
-| Empresa | Cargo / Atuação |
-|----------|-----------------------------|
-| **AGX Software** | Suporte, QA e Product Owner. Atuação em todo o ciclo de produto — testes, documentação, backlog e priorização ágil. |
-| **Abrão Reze** | Suporte N1 – Atendimento técnico e infraestrutura. |
-| **Atacadão S.A.** | Frente de caixa — primeiro contato com o mercado e atendimento ao público. |
-
----
-
-## 🎓 Formações
-
-| Instituição | Curso |
-|--------------|-------------------|
-| **FATEC Sorocaba** | Análise e Desenvolvimento de Sistemas. |
-| **IFSP Itapetininga** | Técnico em Edificações. |
+- **Linguagens:** JavaScript | TypeScript  
+- **Front-end:** React | HTML | CSS  
+- **Back-end:** Node.js | Express  
+- **Banco de Dados:** MongoDB  
+- **Ferramentas:** Git | GitHub | Vercel | Cloudinary  
+- **Metodologias:** Scrum | QA | Testes funcionais  
 
 ---
 
-## 💻 Projetos
+## 💼 Experiência Profissional
+
+**AGX Software**  
+*Analista de Suporte Júnior / QA*  
+- Atuação em ambiente de produto com interação direta com times técnicos e liderança.  
+- Realização de testes de QA focados na experiência do usuário.  
+- Apoio a Product Owner na priorização de backlog e definição de demandas.  
+- Levantamento e documentação de requisitos junto a stakeholders.  
+- Participação ativa em rituais Scrum e treinamentos técnicos internos.
+
+**Grupo Abrão Reze**  
+*Estagiário de Suporte em TI*  
+- Atendimento N1, suporte a usuários e apoio em sistemas e infraestrutura.
+
+---
+
+## 🚀 Projetos em Destaque
 
 | Projeto | Descrição |
-|----------|------------|
-| 🐢 [**Portfólio**](https://portfolio-jabuti-web.vercel.app/?user=lucas_ferreira) | Aplicação web em React para gerenciamento de portfólios com CRUD completo e sistema de Drag & Drop.|
+|--------|----------|
+| 🐢 [**Portfólio Interativo**](https://portfolio-jabuti-web.vercel.app/?user=lucas_ferreira) | Aplicação web em React para criação e gerenciamento de portfólios e catálogos, com CRUD completo e drag-and-drop. |
 | 🎮 [**Tupã: O Legado da Luz**](https://tupa-web.vercel.app/) | Jogo educacional gamificado com backend em Node.js e integração via API. |
-| 🧩 [**Cubo Mágico 2D**](https://cubo-magico-2d-web.vercel.app/) | Aplicativo Android interativo desenvolvido em Java. |
-| 🧱 **Visão computacional** | Projeto acadêmico para detecção de patologias em concreto usando Orange Canvas. |
+| 🧩 [**Cubo Mágico 2D**](https://cubo-magico-2d-web.vercel.app/) | Aplicação interativa desenvolvida em Java. |
+| 🧱 **Visão Computacional** | Projeto acadêmico para detecção de patologias em concreto usando Orange Canvas. |
 
 ---
 
-## 📚 Cursos e Congressos
+## 🎓 Formação
 
-🎓 **Cursos:**
-- Udemy – *Data Mining com Orange Canvas*  
-- Softblue – *MySQL avançado*
-
-🏛️ **Congressos:**
-- **Cobric (Unisanta)** – projeto sustentável com minhocário  
-- **Consistec (IFSP)** – visão computacional aplicada a engenharia civil
+- **FATEC Sorocaba** — Análise e Desenvolvimento de Sistemas  
+- **IFSP** — Técnico em Edificações  
 
 ---
 
-## 🌐 Contatos
+## 🌐 Contato
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://wa.me/5515997651019">
-        <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="40" height="40" alt="WhatsApp"/>
-      </a>
-    </td>
-    <td>
-      <a href="mailto:lucasferreirasouza22@gmail.com">
-        <img src="https://img.icons8.com/color/48/gmail--v1.png" width="40" height="40" alt="Gmail"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.linkedin.com/in/lucas-ferreira-de-souza-758195215">
-        <img src="https://img.icons8.com/color/48/linkedin--v1.png" width="40" height="40" alt="LinkedIn"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/LucasFerreiraSouza">
-        <img src="https://img.icons8.com/color/48/github--v1.png" width="40" height="40" alt="GitHub"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.instagram.com/lucaox">
-        <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="40" height="40" alt="Instagram"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="mailto:lucasferreirasouza22@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail--v1.png" width="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lucas-ferreira-de-souza-758195215">
+    <img src="https://img.icons8.com/color/48/linkedin--v1.png" width="40"/>
+  </a>
+  <a href="https://github.com/LucasFerreiraSouza">
+    <img src="https://img.icons8.com/color/48/github--v1.png" width="40"/>
+  </a>
+</p>
