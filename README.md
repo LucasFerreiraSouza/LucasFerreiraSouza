@@ -70,8 +70,6 @@ Atualmente trabalho na **AGX Software**, em um ambiente de produto, com forte at
 
 ## 🌐 Contato
 
-## 🌐 Contato
-
 <table align="center">
   <tr>
     <td align="center">
