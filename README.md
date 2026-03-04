@@ -36,8 +36,14 @@ Atualmente trabalho na **AGX Software**, em um ambiente de produto, com forte at
 
 ## 💼 Experiência Profissional
 
+**Alumisoft**
+*Anlista de QA*
+- Atuando garantindo a qualidade de software com testes manuais e automatizados
+- Criação de cenários de teste, validação de regras de negócio e apoio ao time no controle de falhas e melhorias contínuas.
+
+
 **AGX Software**  
-*Analista de Suporte Júnior / QA*  
+*Analista de Suporte Júnior*  
 - Atuação em ambiente de produto com interação direta com times técnicos e liderança.  
 - Realização de testes de QA focados na experiência do usuário.  
 - Apoio a Product Owner na priorização de backlog e definição de demandas.  
