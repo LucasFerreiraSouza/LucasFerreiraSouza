@@ -37,7 +37,6 @@ Atualmente trabalho na **AGX Software**, em um ambiente de produto, com forte at
 ## 💼 Experiência Profissional
 
 **Alumisoft**
-
 *Analista de QA*
 - Atuando garantindo a qualidade de software com testes manuais e automatizados
 - Criação de cenários de teste, validação de regras de negócio e apoio ao time no controle de falhas e melhorias contínuas.
