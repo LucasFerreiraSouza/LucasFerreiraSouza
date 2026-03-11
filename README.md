@@ -19,8 +19,6 @@ Sou **Desenvolvedor Full-Stack**, formado em **Análise e Desenvolvimento de Sis
 
 Atuo no desenvolvimento de aplicações web utilizando **React + TypeScript** no front-end e **Node.js** no back-end, com foco em **qualidade, experiência do usuário e boas práticas**.
 
-Atualmente trabalho na **AGX Software**, em um ambiente de produto, com forte atuação em **QA, análise de requisitos e apoio a Product Owner**, o que contribui para uma visão sólida de produto aplicada ao desenvolvimento de software.
-
 ---
 
 ## 🧠 Tecnologias & Ferramentas
