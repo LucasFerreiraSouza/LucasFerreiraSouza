@@ -16,7 +16,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou formado em **Análise e Desenvolvimento de Sistemas pela FATEC Sorocaba** e atuo profissionalmente na área de tecnologia há mais de **4 anos**.
+Sou formado em **Análise e Desenvolvimento de Sistemas pela FATEC Sorocaba** e atuo profissionalmente na área de tecnologia há mais de **3 anos**.
 
 Minha trajetória passou por **Suporte Técnico, Atendimento a Usuários, Levantamento de Requisitos, Product Ownership, Quality Assurance e Desenvolvimento Full-Stack**, proporcionando uma visão completa do ciclo de vida de software.
 
