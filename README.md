@@ -27,30 +27,15 @@ Atualmente sou **Analista de QA Júnior na Alumisoft**, contribuindo para a qual
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Stack Principal
 
-### Front-end
+**Front-end:** React • TypeScript • HTML5 • CSS3
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
+**Back-end:** Node.js • Express
 
-### Back-end
+**Banco de Dados:** MongoDB
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
-
-### Banco de Dados
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
+**Ferramentas:** Git • GitHub • Postman • Vercel
 
 ---
 
@@ -100,8 +85,6 @@ https://cubo-magico-2d-web.vercel.app/
 ---
 
 ## 📫 Contato
-
-## 🌐 Contato
 
 <table align="center">
   <tr>
