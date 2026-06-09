@@ -116,7 +116,7 @@ Tenho grande interesse por desenvolvimento web, automação, experiência do usu
 ## 🎓 Formação
 
 - **FATEC Sorocaba** — Análise e Desenvolvimento de Sistemas  
-- **IFSP** — Técnico em Edificações  
+- **IFSP Itapetininga** — Técnico em Edificações  
 
 ---
 
