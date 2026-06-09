@@ -1,9 +1,10 @@
 <!-- Banner / Apresentação -->
+
 <h1 align="center">👋 Olá! Eu sou o <strong>Lucas Ferreira</strong></h1>
 
 <p align="center">
-  💻 <strong>Desenvolvedor Full-Stack</strong><br>
-  🚀 <strong>React | Node.js | TypeScript | MongoDB | Vercel</strong><br>
+  💻 <strong>Analista de QA & Desenvolvedor Full-Stack</strong><br>
+  🚀 <strong>React | Node.js | TypeScript | MongoDB | Quality Assurance</strong><br>
   📍 Sorocaba - SP, Brasil
 </p>
 
@@ -15,42 +16,89 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **Desenvolvedor Full-Stack**, formado em **Análise e Desenvolvimento de Sistemas (ADS)** pela FATEC Sorocaba, com mais de **2 anos de experiência em TI**.
+Sou formado em **Análise e Desenvolvimento de Sistemas pela FATEC Sorocaba** e atuo profissionalmente na área de tecnologia há mais de **4 anos**.
 
-Atuo no desenvolvimento de aplicações web utilizando **React + TypeScript** no front-end e **Node.js** no back-end, com foco em **qualidade, experiência do usuário e boas práticas**.
+Minha trajetória passou por **Suporte Técnico, Atendimento a Usuários, Levantamento de Requisitos, Product Ownership, Quality Assurance e Desenvolvimento Full-Stack**, proporcionando uma visão completa do ciclo de vida de software.
+
+Atualmente atuo como **Analista de QA na Alumisoft**, contribuindo para a qualidade de produtos através de testes, validações de negócio e melhoria contínua de processos.
+
+Tenho grande interesse por desenvolvimento web, automação, experiência do usuário e construção de soluções que gerem valor real para pessoas e empresas.
 
 ---
 
 ## 🧠 Tecnologias & Ferramentas
 
-- **Linguagens:** JavaScript | TypeScript  
-- **Front-end:** React | HTML | CSS  
-- **Back-end:** Node.js | Express  
-- **Banco de Dados:** MongoDB  
-- **Ferramentas:** Git | GitHub | Vercel | Cloudinary  
-- **Metodologias:** Scrum | QA | Testes funcionais  
+### Linguagens
+
+* JavaScript
+* TypeScript
+
+### Front-end
+
+* React
+* HTML5
+* CSS3
+
+### Back-end
+
+* Node.js
+* Express
+
+### Banco de Dados
+
+* MongoDB
+
+### Ferramentas
+
+* Git
+* GitHub
+* Vercel
+* Cloudinary
+* Postman
+
+### Metodologias & Qualidade
+
+* Scrum
+* Kanban
+* QA
+* Testes Funcionais
+* Testes Exploratórios
+* Levantamento de Requisitos
 
 ---
 
 ## 💼 Experiência Profissional
 
-**Alumisoft**  
-*Analista de QA* 
-- Atuando garantindo a qualidade de software com testes manuais e automatizados
-- Criação de cenários de teste, validação de regras de negócio e apoio ao time no controle de falhas e melhorias contínuas.
+### Alumisoft
 
+**Analista de QA Júnior** | Atual
 
-**AGX Software**  
-*Analista de Suporte Júnior*  
-- Atuação em ambiente de produto com interação direta com times técnicos e liderança.  
-- Realização de testes de QA focados na experiência do usuário.  
-- Apoio a Product Owner na priorização de backlog e definição de demandas.  
-- Levantamento e documentação de requisitos junto a stakeholders.  
-- Participação ativa em rituais Scrum e treinamentos técnicos internos.
+* Planejamento e execução de testes funcionais.
+* Criação e manutenção de cenários de teste.
+* Validação de regras de negócio.
+* Registro, acompanhamento e reprodução de bugs.
+* Apoio à melhoria contínua da qualidade dos produtos.
+* Participação ativa em cerimônias ágeis.
 
-**Grupo Abrão Reze**  
-*Estagiário de Suporte em TI*  
-- Atendimento N1, suporte a usuários e apoio em sistemas e infraestrutura.
+### AGX Software
+
+**Analista de Suporte Júnior**
+
+* Atendimento e suporte a usuários.
+* Testes de QA focados na experiência do usuário.
+* Apoio ao Product Owner na priorização de backlog.
+* Levantamento e documentação de requisitos.
+* Interação direta com stakeholders e equipes técnicas.
+* Participação em processos ágeis utilizando Scrum.
+
+### Grupo Abrão Reze
+
+**Estagiário de Suporte em TI**
+
+* Suporte técnico N1.
+* Atendimento a usuários.
+* Apoio à infraestrutura e sistemas internos.
+* Manutenção e configuração de equipamentos.
 
 ---
 
