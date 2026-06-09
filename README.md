@@ -83,12 +83,6 @@ https://cubo-magico-2d-web.vercel.app/
 
 ---
 
-### 🎯 CyberChase QA
-
-Sistema integrado a jogo educacional para atualização dinâmica de perguntas via API.
-
----
-
 ## 📈 Estatísticas
 
 <p align="center">
