@@ -1,11 +1,8 @@
-<!-- Banner / Apresentação -->
-
-<h1 align="center">👋 Olá! Eu sou o <strong>Lucas Ferreira</strong></h1>
+<h1 align="center">👋 Olá! Eu sou Lucas Ferreira</h1>
 
 <p align="center">
-  💻 <strong>Analista de QA & Desenvolvedor Full-Stack</strong><br>
-  🚀 <strong>React | Node.js | TypeScript | MongoDB | Quality Assurance</strong><br>
-  📍 Sorocaba - SP, Brasil
+  <strong>Analista de QA • Desenvolvedor Full-Stack</strong><br>
+  React • Node.js • TypeScript • MongoDB • Quality Assurance
 </p>
 
 <p align="center">
@@ -14,111 +11,101 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🚀 Sobre Mim
 
-Sou formado em **Análise e Desenvolvimento de Sistemas pela FATEC Sorocaba** e atuo profissionalmente na área de tecnologia há mais de **3 anos**.
+🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela FATEC Sorocaba.
 
-Minha trajetória passou por **Suporte Técnico, Atendimento a Usuários, Levantamento de Requisitos, Product Ownership, Quality Assurance e Desenvolvimento Full-Stack**, proporcionando uma visão completa do ciclo de vida de software.
+💼 Atuo na área de tecnologia há mais de **3 anos**, com experiência em:
 
-Atualmente atuo como **Analista de QA na Alumisoft**, contribuindo para a qualidade de produtos através de testes, validações de negócio e melhoria contínua de processos.
+* Quality Assurance (QA)
+* Suporte Técnico
+* Levantamento de Requisitos
+* Product Ownership
+* Desenvolvimento Full-Stack
 
-Tenho grande interesse por desenvolvimento web, automação, experiência do usuário e construção de soluções que gerem valor real para pessoas e empresas.
+Atualmente sou **Analista de QA Júnior na Alumisoft**, contribuindo para a qualidade de produtos através de testes, validações de negócio e melhoria contínua.
 
 ---
 
-## 🧠 Tecnologias & Ferramentas
-
-### Linguagens
-
-* JavaScript
-* TypeScript
+## 🛠️ Tecnologias
 
 ### Front-end
 
-* React
-* HTML5
-* CSS3
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
 
 ### Back-end
 
-* Node.js
-* Express
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
 
 ### Banco de Dados
 
-* MongoDB
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
 
 ### Ferramentas
 
-* Git
-* GitHub
-* Vercel
-* Cloudinary
-* Postman
-
-### Metodologias & Qualidade
-
-* Scrum
-* Kanban
-* QA
-* Testes Funcionais
-* Testes Exploratórios
-* Levantamento de Requisitos
-
----
-
-## 💼 Experiência Profissional
-
-### Alumisoft
-
-**Analista de QA Júnior** | Atual
-
-* Planejamento e execução de testes funcionais.
-* Criação e manutenção de cenários de teste.
-* Validação de regras de negócio.
-* Registro, acompanhamento e reprodução de bugs.
-* Apoio à melhoria contínua da qualidade dos produtos.
-* Participação ativa em cerimônias ágeis.
-
-### AGX Software
-
-**Analista de Suporte Júnior**
-
-* Atendimento e suporte a usuários.
-* Testes de QA focados na experiência do usuário.
-* Apoio ao Product Owner na priorização de backlog.
-* Levantamento e documentação de requisitos.
-* Interação direta com stakeholders e equipes técnicas.
-* Participação em processos ágeis utilizando Scrum.
-
-### Grupo Abrão Reze
-
-**Estagiário de Suporte em TI**
-
-* Suporte técnico N1.
-* Atendimento a usuários.
-* Apoio à infraestrutura e sistemas internos.
-* Manutenção e configuração de equipamentos.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-| Projeto | Descrição |
-|--------|----------|
-| 🐢 [**Portfólio Interativo**](https://portfolio-jabuti-web.vercel.app/?user=lucas_ferreira) | Aplicação web em React para criação e gerenciamento de portfólios e catálogos, com CRUD completo e drag-and-drop. |
-| 🎮 [**Tupã: O Legado da Luz**](https://tupa-web.vercel.app/) | Jogo educacional gamificado com backend em Node.js e integração via API. |
-| 🧩 [**Cubo Mágico 2D**](https://cubo-magico-2d-web.vercel.app/) | Aplicação interativa desenvolvida em Java. |
-| 🧱 **Visão Computacional** | Projeto acadêmico para detecção de patologias em concreto usando Orange Canvas. |
+### 🐢 JabuTI Portfolio
+
+Aplicação web para criação e gerenciamento de portfólios digitais.
+
+🔗 Demo:
+https://portfolio-jabuti-web.vercel.app/?user=lucas_ferreira
+
+---
+
+### 🎮 Tupã: O Legado da Luz
+
+Jogo educacional gamificado integrado a APIs REST.
+
+🔗 Demo:
+https://tupa-web.vercel.app/
+
+---
+
+### 🧩 Cubo Mágico 2D
+
+Simulador interativo focado em lógica e algoritmos.
+
+🔗 Demo:
+https://cubo-magico-2d-web.vercel.app/
+
+---
+
+### 🎯 CyberChase QA
+
+Sistema integrado a jogo educacional para atualização dinâmica de perguntas via API.
+
+---
+
+## 📈 Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasFerreiraSouza&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFerreiraSouza&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🎓 Formação
 
-- **FATEC Sorocaba** — Análise e Desenvolvimento de Sistemas  
-- **IFSP Itapetininga** — Técnico em Edificações  
+* FATEC Sorocaba — Análise e Desenvolvimento de Sistemas
+* IFSP Itapetininga — Técnico em Edificações
 
 ---
+
+## 📫 Contato
 
 ## 🌐 Contato
 
@@ -143,6 +130,3 @@ Tenho grande interesse por desenvolvimento web, automação, experiência do usu
       </a>
     </td>
   </tr>
-</table>
-
-
