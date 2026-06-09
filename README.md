@@ -27,15 +27,13 @@ Atualmente sou **Analista de QA Júnior na Alumisoft**, contribuindo para a qual
 
 ---
 
-## 🛠️ Stack Principal
+## 🛠️ Tecnologias
 
-**Front-end:** React • TypeScript • HTML5 • CSS3
-
-**Back-end:** Node.js • Express
-
-**Banco de Dados:** MongoDB
-
-**Ferramentas:** Git • GitHub • Postman • Vercel
+- **Front-end:** React, TypeScript, HTML5, CSS3
+- **Back-end:** Node.js, Express
+- **Banco de Dados:** MongoDB
+- **Ferramentas:** Git, GitHub, Postman, Vercel
+- **Metodologias:** Scrum, Kanban, QA, Levantamento de Requisitos
 
 ---
 
@@ -45,8 +43,7 @@ Atualmente sou **Analista de QA Júnior na Alumisoft**, contribuindo para a qual
 
 Aplicação web para criação e gerenciamento de portfólios digitais.
 
-🔗 Demo:
-https://portfolio-jabuti-web.vercel.app/?user=lucas_ferreira
+🔗 https://portfolio-jabuti-web.vercel.app/?user=lucas_ferreira
 
 ---
 
@@ -54,8 +51,7 @@ https://portfolio-jabuti-web.vercel.app/?user=lucas_ferreira
 
 Jogo educacional gamificado integrado a APIs REST.
 
-🔗 Demo:
-https://tupa-web.vercel.app/
+🔗 https://tupa-web.vercel.app/
 
 ---
 
@@ -63,17 +59,7 @@ https://tupa-web.vercel.app/
 
 Simulador interativo focado em lógica e algoritmos.
 
-🔗 Demo:
-https://cubo-magico-2d-web.vercel.app/
-
----
-
-## 📈 Estatísticas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasFerreiraSouza&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFerreiraSouza&layout=compact&theme=tokyonight"/>
-</p>
+🔗 https://cubo-magico-2d-web.vercel.app/
 
 ---
 
