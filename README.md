@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre Mim
 
-## 🎓 Formação
+🎓 Formação
 
 * FATEC Sorocaba — Análise e Desenvolvimento de Sistemas
 * IFSP Itapetininga — Técnico em Edificações
