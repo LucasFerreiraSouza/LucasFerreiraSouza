@@ -13,7 +13,11 @@
 
 ## 🚀 Sobre Mim
 
-🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela FATEC Sorocaba.
+## 🎓 Formação
+
+* FATEC Sorocaba — Análise e Desenvolvimento de Sistemas
+* IFSP Itapetininga — Técnico em Edificações
+
 
 💼 Atuo na área de tecnologia há mais de **3 anos**, com experiência em:
 
@@ -60,14 +64,7 @@ Jogo educacional gamificado integrado a APIs REST.
 Simulador interativo focado em lógica e algoritmos.
 
 🔗 https://cubo-magico-2d-web.vercel.app/
-
----
-
-## 🎓 Formação
-
-* FATEC Sorocaba — Análise e Desenvolvimento de Sistemas
-* IFSP Itapetininga — Técnico em Edificações
-
+d
 ---
 
 ## 📫 Contato
