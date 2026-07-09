@@ -36,7 +36,7 @@ Atualmente sou **Analista de QA Júnior na Alumisoft**, contribuindo para a qual
 - **Front-end:** React, TypeScript, HTML5, CSS3
 - **Back-end:** Node.js, Express
 - **Banco de Dados:** MongoDB
-- **Ferramentas:** Git, GitHub, Postman, Vercel
+- **Ferramentas:** Git, GitHub, Postman, Vercel, Cloudnary, Brevo
 - **Metodologias:** Scrum, Kanban, QA, Levantamento de Requisitos
 
 ---
@@ -64,7 +64,7 @@ Jogo educacional gamificado integrado a APIs REST.
 Simulador interativo focado em lógica e algoritmos.
 
 🔗 https://cubo-magico-2d-web.vercel.app/
-d
+
 ---
 
 ## 📫 Contato
